@@ -1,6 +1,7 @@
 # galaxy
 
-A new Flutter project.
+A Gaming App Made With Flutter
+.
 
 ## Getting Started
 
